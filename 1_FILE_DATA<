@@ -1,0 +1,20 @@
+[
+    {
+        "id": "button1",
+        "url": "https://kdata1.com/5000/2024/sprunki-megalovania/",
+        "image": "https://example.com/image1.png",
+        "title": "Game One"
+    },
+    {
+        "id": "button2",
+        "url": "https://kdata1.com/5000/2024/sprunki-megalovania/",
+        "image": "https://example.com/image2.png",
+        "title": "Game Two"
+    },
+    {
+        "id": "button3",
+        "url": "https://kdata1.com/5000/2024/sprunki-megalovania/",
+        "image": "https://example.com/image3.png",
+        "title": "Game Three"
+    }
+]
